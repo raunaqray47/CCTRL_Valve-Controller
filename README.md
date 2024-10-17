@@ -40,19 +40,19 @@ User Interface
 
 Configuration Mode Design - 
         
-        ![Configuration Mode](https://github.com/user-attachments/assets/bcf89093-1b16-40c2-9a67-673cad26f71e)
+![Configuration Mode](https://github.com/user-attachments/assets/bcf89093-1b16-40c2-9a67-673cad26f71e)
 
 Operation Mode Design - 
         
-        ![Operation Mode](https://github.com/user-attachments/assets/36797347-ff65-4abc-9c8c-f47761726a41)
+![Operation Mode](https://github.com/user-attachments/assets/36797347-ff65-4abc-9c8c-f47761726a41)
 
 Faceplate when Valve is closed
         
-        ![Faceplate](https://github.com/user-attachments/assets/18dbae07-058d-4091-b4d2-88bb91874284)
+![Faceplate](https://github.com/user-attachments/assets/18dbae07-058d-4091-b4d2-88bb91874284)
 
 Faceplate when Valve is Open
         
-        ![Faceplate_Working](https://github.com/user-attachments/assets/830958a7-48e9-4d1a-915d-9d02aa109771)
+![Faceplate_Working](https://github.com/user-attachments/assets/830958a7-48e9-4d1a-915d-9d02aa109771)
 
 Implementation Details
 
@@ -61,7 +61,7 @@ Implementation Details
 
 Plant Display - 
         
-        ![Plant Display](https://github.com/user-attachments/assets/45f4b004-ec37-4f96-b5e8-63433e81d6fc)
+![Plant Display](https://github.com/user-attachments/assets/45f4b004-ec37-4f96-b5e8-63433e81d6fc)
 
 
 
